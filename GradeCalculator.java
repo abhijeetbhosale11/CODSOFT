@@ -29,7 +29,7 @@ public class GradeCalculator {
         // Display Results
         displayResults(totalMarks, averagePercentage, grade);
 
-        
+        scanner.close();
     }
 
     // Method to calculate total marks
